@@ -8,7 +8,7 @@
   </h1>
 </div>
 
-  ### Software Development Student (Kevin Sánchez) | Intern @ Logic Studio 
+  ### Software Development Student (Kevin Sánchez) | Student (Universidad Tecnológica de Panamá) 
   
   *Vive libre hasta el final, porque algún día no serás más que huesos*
 
@@ -28,7 +28,7 @@
 
 ###  Sobre Mí
 
-Estudiante de la **Licenciatura en Desarrollo y Gestión de Software** en la **Universidad Tecnológica de Panamá** y actualmente pasante de desarrollo en **Logic Studio**. Enfocado en construir soluciones escalables y automatizar infraestructura.
+Estudiante de la **Licenciatura en Desarrollo y Gestión de Software** en la **Universidad Tecnológica de Panamá**. Enfocado en construir soluciones escalables y automatizar infraestructura.
 
 * **Ingeniería de Software:** Gestión del ciclo de vida del proyecto, con énfasis en planificación, documentación técnica y estrategias de pruebas (testing).
 * **Desarrollo Full-Stack:** Especializado en arquitecturas robustas con **.NET Web API** y frontends reactivos en **Angular** utilizando manejo de estado con **NgRx**.
