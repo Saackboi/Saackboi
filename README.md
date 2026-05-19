@@ -16,12 +16,12 @@
 </div>
 
 <div align="center">
-  <img src="https://gifdb.com/images/high/one-piece-smiling-straw-hat-luffy-jz36w2zqojhanjhs.gif" width="190" style="z-index: 10;" />
+  <img src="https://github.com/Saackboi/Saackboi/blob/main/one-piece-smiling-straw-hat-luffy-jz36w2zqojhanjhs.gif" width="190" style="z-index: 10;" />
 </div>
 
 <br clear="all" />
 
-<img src="https://i.postimg.cc/JnfBnscy/nika.png" align="right" width="80" alt="Dotto sound effect" />
+<img src="https://github.com/Saackboi/Saackboi/blob/main/nika.png" align="right" width="80" alt="Dotto sound effect" />
 
 ---
 
